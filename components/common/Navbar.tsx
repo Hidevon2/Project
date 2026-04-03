@@ -22,7 +22,7 @@ export function Navbar() {
           href="/"
           className="flex h-10 min-w-[4.5rem] items-center justify-center rounded-lg border border-border bg-card px-4 text-sm font-semibold text-foreground shadow-sm"
         >
-          Logo
+          D's
         </Link>
         <nav className="hidden items-center gap-6 md:flex" aria-label="Primary">
           {links.map((item) => (
